@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-dwj-zhdd",
+  "version": "0.0.2",
+  "description": "cordova 开机启动插件",
+  "main": "index.js",
+  "cordova": {
+    "id": "cordova-plugin-autstart",
+    "platforms": [
+      "android"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaoruanyym/cordova-plugin-dwj-zhdd.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "autostart"
+  ],
+  "author": "prz",
+  "license": "ISC",
+  "engines": {
+    
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
+}
